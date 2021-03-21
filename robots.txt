@@ -1,1 +1,1 @@
-Sitemap: https://realsid.com/blogs/sitemap.xml
+Sitemap: https://realsid.com/sitemap.xml
