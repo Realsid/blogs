@@ -6,4 +6,4 @@
 
 
 
-### https://realsid.com powerd by fastpages 🚀
+### https://realsid.com powered by fastpages 🚀
